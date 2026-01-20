@@ -21,7 +21,3 @@ This project serves as a practical application of the following engineering modu
 - **Compiler**: GCC
 - **Development Environment**: VS Code on ASUS TUF Gaming A16
 
-## 🔧 Installation & Usage
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/gupta-bhanu/Bhanu-Grading-System.git](https://github.com/gupta-bhanu/Bhanu-Grading-System.git)
